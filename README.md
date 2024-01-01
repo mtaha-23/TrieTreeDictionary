@@ -84,3 +84,32 @@ This Function find the Node of prefix where endOfWord is true and passes it to _
 
 **`void suggestWord(Node* curr, string prefix, int& count);`**<br>
 This function recursively prints 10 words and their meaning with the prefix word passed as parameter.
+
+# Screenshots
+#### - Adding a New Word<br>
+![Screenshot 2024-01-01 142702](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/fdc92503-6b61-46b1-a3c5-aba8ba74f362)
+
+#### - Searching Word <br>
+![Screenshot 2024-01-01 142710](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/281ace0c-286a-4383-9707-9bf19e5f12ec)
+
+#### - Searching a word that don't exist <br>
+
+![Screenshot 2024-01-01 142716](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/239e58f6-8955-4beb-bdab-086c62fe656c)
+
+#### - Updating Meaning of Word <br>
+![Screenshot 2024-01-01 142724](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/64a09a3d-1bf2-4f3c-afd1-efe4595c8d47)
+
+#### - Searching Word to see new Meaning<br>
+![Screenshot 2024-01-01 142728](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/4c3b8313-a4c9-45c0-a155-d764fd6b8ba4)
+
+#### - Deleting Word <br>
+![Screenshot 2024-01-01 142746](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/426339da-d127-47e4-9175-814eae67b69a)
+
+#### - Searching Word after it is deleted<br>
+![Screenshot 2024-01-01 142753](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/29e60191-264e-41b6-b1a8-4aec65a5f0dd)
+
+#### - Seeing word suggestion from a prefix<br>
+![Screenshot 2024-01-01 142800](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/8b292d98-4762-49e4-af67-84a883187dd1)
+
+#### - Seeing word suggestion from a prefix<br>
+![Screenshot 2024-01-01 142804](https://github.com/mtaha-23/TruthTableGenerator/assets/132524394/262f5e5d-9f5c-4fe4-92bd-98a49442e963)
